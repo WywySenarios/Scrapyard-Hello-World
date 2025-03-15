@@ -1,0 +1,15 @@
+.container {
+    color: red;
+    text-align: center;
+    text-size: 12rem;
+}
+
+body {
+    background-color: linear-gradient(90deg, red, blue);
+}
+
+a {
+    font-size: 80px;
+    background: purple;
+    box-shadow: 0 0 15px blue;
+}
